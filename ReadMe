@@ -1,0 +1,8 @@
+This is my first portfolio project on Covid infections on the populations of countries.
+I used SQL and Tableau for the fist time.
+Based on the results, I noticed smaller countries tend to have a higher rate of covid infections across their population.
+I might dig into this hypothesis in the future. It might be a good correlation analysis project between covid infection and area of a countries.
+
+
+Data Source: https://ourworldindata.org/covid-deaths
+Tableau Dashboard: https://public.tableau.com/app/profile/tavish.tulloo/viz/CovidInfectionPortfolio/CovidInfections
